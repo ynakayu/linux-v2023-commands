@@ -1,0 +1,12 @@
+$ pwd
+$ ls
+$ cd lesson
+$ ls
+$ pwd
+$ cd ..
+$ pwd
+$ cd lesson
+$ pwd
+$ cd 
+$ pwd
+$ cd ~
