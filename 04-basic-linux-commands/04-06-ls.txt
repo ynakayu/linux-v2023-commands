@@ -1,0 +1,6 @@
+$ ls
+$ ls /home/ec2-user/
+$ ls -a
+$ ls -l
+$ ls -la
+$ ls -al
