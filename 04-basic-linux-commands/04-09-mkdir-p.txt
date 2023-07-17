@@ -1,0 +1,16 @@
+$ pwd
+$ mkdir -p lesson2/lesson3/
+$ ls
+$ cd lesson2
+$ ls
+$ cd lesson3
+$ pwd
+$ cd
+$ pwd 
+$ cd lesson2/lesson3/
+$ pwd
+$ mkdir -p /home/ec2-user/lesson4/lesson5/
+$ ls
+$ cd lesson4/lesson5/
+$ pwd
+$ cd
