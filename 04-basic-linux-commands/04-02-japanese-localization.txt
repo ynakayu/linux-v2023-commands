@@ -1,0 +1,3 @@
+$ sudo localectl set-locale LANG=ja_JP.UTF-8
+$ sudo timedatectl set-timezone Asia/Tokyo
+$ date
