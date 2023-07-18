@@ -1,0 +1,4 @@
+$ ls /home
+$ sudo userdel -r nakamura
+$ ls /home
+$ cat /etc/passwd
