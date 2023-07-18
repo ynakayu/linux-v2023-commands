@@ -1,0 +1,7 @@
+$ history
+$ history 5
+$ history
+$ !○○
+$ history | grep ls
+$ history -d ○○
+$ history
