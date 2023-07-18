@@ -1,0 +1,6 @@
+$ touch original.txt
+$ ls 
+$ cp original.txt copied.txt
+$ ls
+$ rm original.txt copied.txt
+$ ls
