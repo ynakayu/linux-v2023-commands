@@ -1,0 +1,9 @@
+$ touch sample.txt
+$ mv sample.txt renamed.txt
+$ ls
+$ mkdir mydir
+$ mv renamed.txt mydir/renamed.txt
+$ ls
+$ ls mydir/
+$ rm -r mydir
+$ ls
