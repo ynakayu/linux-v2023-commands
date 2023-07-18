@@ -1,0 +1,7 @@
+$ mkdir original_dir
+$ ls
+$ cp -r original_dir copied_dir
+$ ls
+$ rm -r original_dir
+$ rm -r copied_dir
+$ ls
