@@ -1,0 +1,4 @@
+$ sudo useradd nakamura
+$ cat /etc/passwd
+$ ls /home
+
