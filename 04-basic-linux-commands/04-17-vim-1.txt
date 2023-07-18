@@ -1,0 +1,6 @@
+$ vim
+$ vim sample.txt
+$ ls
+$ vim sample.txt
+$ vim sample.txt
+$ vim sample.txt
