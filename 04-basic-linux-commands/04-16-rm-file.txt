@@ -1,0 +1,4 @@
+$ touch myfile.txt
+$ ls 
+$ rm myfile.txt
+$ ls
