@@ -1,0 +1,4 @@
+$ which ls
+$ which cd
+$ ls /usr/bin
+$ /usr/bin/ls
