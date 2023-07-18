@@ -1,0 +1,7 @@
+$ touch myfile
+$ ls
+$ mkdir mydir
+$ ls -l
+$ rm myfile
+$ rm -r mydir
+$ ls
