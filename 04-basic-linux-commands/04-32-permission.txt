@@ -1,0 +1,4 @@
+$ touch testfile
+$ ls -l
+$ rm testfile
+$ ls 
