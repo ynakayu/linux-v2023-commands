@@ -1,0 +1,25 @@
+$ touch testfile
+$ ls -l
+$ sudo chown nakamura:nakamura testfile
+$ ls -l
+$ vim testfile
+$ sudo chown ec2-user:ec2-user testfile
+$ ls -l
+$ mkdir testdir
+$ ls -l
+$ mkdir  testdir/
+$ touch testdir/testfile2
+$ ls -l testdir/
+$ sudo chown nakamura:nakamura testdir/
+$ ls -l
+$ ls -l testdir/
+$ sudo chown -R nakamura:nakamura testdir/
+$ ls -l testdir/
+$ sudo chown -R ec2-user:ec2-user testdir/
+$ ls -l testdir/
+$ rm -r testdir
+$ rm testfile
+$ ls 
+
+
+
