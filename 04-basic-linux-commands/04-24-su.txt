@@ -1,0 +1,7 @@
+$ su - nakamura
+$ pwd
+$ exit
+$ pwd
+$ su nakamura
+$ pwd
+$ exit
