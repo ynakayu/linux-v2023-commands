@@ -3,4 +3,4 @@ $ pwd
 $ cd
 $ mv lesson2/lesson3 lesson/
 $ ls lesson2/
-$ ls lesson/ 
+$ ls lesson/
