@@ -1,0 +1,8 @@
+$ ls
+$ rmdir lesson2/
+$ ls
+$ rmdir lesson/
+$ rm -r lesson/
+$ ls
+$ rm -r lesson4/
+$ ls
