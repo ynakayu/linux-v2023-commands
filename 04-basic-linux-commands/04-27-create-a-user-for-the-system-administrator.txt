@@ -1,0 +1,10 @@
+$ sudo useradd nakamura
+$ sudo passwd nakamura
+$ sudo usermod -aG wheel nakamura
+$ sudo vim /etc/sudoers
+$ sudo visudo
+$ su - nakamura
+$ useradd test-user
+$ sudo useradd test-user
+$ exit
+$ sudo userdel -r test-user
