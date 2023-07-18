@@ -1,0 +1,11 @@
+$ touch testfile
+$ ls -l
+$ chmod 400 testfile
+$ ls -l
+$ vim testfile
+$ chmod 600 testfile
+$ ls -l
+$ vim testfile
+$ cat testfile
+$rm testfile
+$ls 
