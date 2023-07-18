@@ -1,0 +1,14 @@
+$ cat /etc/group
+$ groups nakamura
+$ sudo groupadd devgroup
+$ cat /etc/group
+$ cat /etc/group | grep devgroup
+$ sudo usermod -aG devgroup nakamura
+$ groups nakamura
+$ id nakamura
+$ sudo gpasswd -d nakamura devgroup
+$ sudo groupdel devgroup
+$ cat /etc/group | grep devgroup
+$ cat /etc/passwd
+$ sudo userdel -r nakamura
+$ cat /etc/passwd 
