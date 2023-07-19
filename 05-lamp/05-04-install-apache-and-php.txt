@@ -1,0 +1,10 @@
+$ sudo dnf update -y
+$ sudo dnf install -y httpd wget php-fpm php-mysqli php-json php php-devel
+$ httpd -v
+$ php -v 
+$ sudo systemctl start httpd
+$ sudo systemctl status httpd
+$ sudo systemctl enable httpd
+$ exit
+$ sudo systemctl status httpd
+$ sudo systemctl is-enabled httpd

@@ -1,0 +1,8 @@
+$ sudo dnf install mariadb105-server -y
+$ sudo systemctl start mariadb
+$ sudo mysql_secure_installation
+$ sudo systemctl status mariadb
+$ sudo systemctl stop mariadb
+$ sudo systemctl status mariadb
+$ sudo systemctl enable mariadb
+$ sudo systemctl status mariadb

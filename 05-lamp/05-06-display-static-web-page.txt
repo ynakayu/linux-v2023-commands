@@ -1,0 +1,12 @@
+$ ls -l /var/www/
+$ touch /var/www/html/index.html
+$ sudo usermod -aG apache ec2-user
+$ exit
+$ groups
+$ ls -l  /var/www
+$ sudo chown -R ec2-user:apache /var/www
+$ ls -l  /var/www
+$ sudo chmod 2775 /var/www && find /var/www -type d -exec sudo chmod 2775 {} \;
+$ ls -l /var/www/
+$ touch /var/www/html/index.html
+$ vim  /var/www/html/index.html

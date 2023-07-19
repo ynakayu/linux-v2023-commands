@@ -1,0 +1,2 @@
+$ sudo systemctl status mariadb
+$ sudo systemctl start mariadb

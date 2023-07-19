@@ -1,0 +1,2 @@
+$ echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
+$ rm /var/www/html/phpinfo.php

@@ -1,0 +1,3 @@
+$ echo "<?php echo 'Hello Word'; ?>" > /var/www/html/index.php
+$ cat /var/www/html/index.php
+$ vim /var/www/html/index.php
