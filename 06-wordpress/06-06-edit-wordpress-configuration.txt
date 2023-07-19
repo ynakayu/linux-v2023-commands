@@ -1,0 +1,3 @@
+$ less wordpress/wp-config-sample.php
+$ cp wordpress/wp-config-sample.php wordpress/wp-config.php
+$ vim wordpress/wp-config.php

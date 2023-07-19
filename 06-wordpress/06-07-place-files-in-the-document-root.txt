@@ -1,0 +1,7 @@
+$ mkdir /var/www/html/blog
+$ cp -r wordpress/* /var/www/html/blog/
+$ ls /var/www/html/blog/
+$ sudo vim /etc/httpd/conf/httpd.conf
+$ sudo dnf install php-gd -y
+$ ls -l /var/www
+

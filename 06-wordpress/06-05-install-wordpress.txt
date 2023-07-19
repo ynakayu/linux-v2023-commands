@@ -1,0 +1,4 @@
+$ wget https://ja.wordpress.org/latest-ja.tar.gz
+$ tar -xzf latest-ja.tar.gz
+$ ls wordpress/
+
