@@ -1,0 +1,10 @@
+/* macOS */
+$ ls -l ~/.ssh
+$ cp ~/Downloads/hands-on-key.pem ~/.ssh/
+$ ls ~/.ssh
+$ sudo chmod 700 ~/.ssh
+$ sudo chmod -R 600 ~/.ssh/*
+$ ssh -i ~/.ssh/hands-on-key.pem ec2-user@xxx.xxx.xxx.xxx
+
+/* ec2 */
+$ exit
