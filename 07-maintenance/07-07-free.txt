@@ -1,0 +1,3 @@
+$ free
+$ free -m
+$ free -ms 1

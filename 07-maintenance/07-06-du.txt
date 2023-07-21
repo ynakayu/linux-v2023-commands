@@ -1,0 +1,4 @@
+$ du /var/www/html/blog/
+$ du -a /var/www/html/blog/ | more
+$ du -s /var/www/html/blog/
+$ du -sh /var/www/html/blog/

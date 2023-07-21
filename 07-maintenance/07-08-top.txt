@@ -1,0 +1,4 @@
+$ top
+$ top -n 2
+$ top -u apache
+$ top -d 5

@@ -1,0 +1,4 @@
+$ dnf check-update
+$ sudo dnf update
+$ sudo dnf update -y
+$ sudo dnf update httpd
