@@ -1,0 +1,4 @@
+$ vmstat
+$ vmstat 1
+$ vmstat 1 5
+$ vmstat -SM
