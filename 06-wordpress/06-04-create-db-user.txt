@@ -1,7 +1,7 @@
 $ sudo systemctl status mariadb
 $ sudo systemctl status httpd
 $ ​​sudo mysql -u root -p
-mariaDB > CREATE USER 'wp-user'@'localhost' IDENTIFIED BY '(パスワード)';
+mariaDB > CREATE USER 'wp-user'@'localhost' IDENTIFIED BY 'パスワード';
 mariaDB > CREATE DATABASE `wp-db`;
 mariaDB > GRANT ALL PRIVILEGES ON `wp-db`.* TO "wp-user"@"localhost";
 mariaDB > FLUSH PRIVILEGES;
